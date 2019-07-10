@@ -1,0 +1,19 @@
+{
+  "name": "react-revive",
+  "version": "0.0.1",
+  "description": "React storage engine (global state container) based on React Hooks",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:react-revive/react-revive.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "hooks",
+    "store",
+    "state"
+  ],
+  "author": "akterstack@gmail.com",
+  "license": "MIT"
+}
